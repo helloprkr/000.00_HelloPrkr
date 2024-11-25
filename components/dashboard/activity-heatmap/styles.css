@@ -1,0 +1,13 @@
+@layer utilities {
+  .contribution-light-0 { @apply bg-background; }
+  .contribution-light-1 { @apply bg-primary/20; }
+  .contribution-light-2 { @apply bg-primary/40; }
+  .contribution-light-3 { @apply bg-primary/60; }
+  .contribution-light-4 { @apply bg-primary/80; }
+
+  .contribution-dark-0 { @apply bg-background; }
+  .contribution-dark-1 { @apply bg-primary/30; }
+  .contribution-dark-2 { @apply bg-primary/50; }
+  .contribution-dark-3 { @apply bg-primary/70; }
+  .contribution-dark-4 { @apply bg-primary/90; }
+}
